@@ -1,3 +1,11 @@
+---
+layout: default
+title: USC AI Futures Symposium on Artificial Intelligence and Data Science
+---
+---
+
+
+
 Note: links to Zoom sessions will be emailed privately after [registration](https://usc.zoom.us/webinar/register/WN_V-mMUlHGQMWnkecKyPUQWA).
 
 ### All times are in PST (Los Angeles time)
@@ -69,4 +77,3 @@ Note: links to Zoom sessions will be emailed privately after [registration](http
 |  |  | [Peter Kuhn](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1057916) <br> Dean’s Professor of Biological Sciences, Dornsife College of Letters, Arts and Sciences; Professor of Medicine, Biomedical Engineering, Aerospace & Mechanical Engineering and Urology, Dornsife College of Letters, Arts and Sciences | <img src="images/Kuhn.jpg" width="500" /> |
 |  |  | [Daniella Meeker](https://keck.usc.edu/faculty-search/daniella-meeker/) <br> Director of Clinical Research Informatics, Keck School of Medicine; Assistant Professor of Preventive Medicine, Keck School of Medicine | <img src="images/Meeker.jpg" width="500" /> |
 | 12:00 | 12:15 | **Closing Remarks**  |  |
-
