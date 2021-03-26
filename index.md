@@ -12,9 +12,9 @@ Profound innovations at the intersection of artificial intelligence and data sci
 
 This event is part of the USC AI Futures Symposium Series. A prior event was held in January 2021 with the theme: [Will AIs Ever Be One of Us?](https://www.isi.edu/events/ai_symposium_2021).
 
-## Agenda
+## Schedule
 
-A preliminary agenda is available [here](https://isi-usc-edu.github.io/USC-AI-DS-Symposium/agenda).
+A preliminary agenda is available [here](https://isi-usc-edu.github.io/USC-AI-DS-Symposium/schedule).
 
 ## Attending
 
