@@ -13,6 +13,7 @@ The sessions will run from 8:45am PST to 12:15 PST on May 3-5, 2021.  All times 
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
 | 8:45 | 9:00 | **Welcome and Opening Remarks**  |  |
+|  |  | [Craig Knoblock](https://usc-isi-i2.github.io/knoblock/) <br> Keston Executive Director, Information Sciences Institute, Viterbi School of Engineering; Vice Dean of Engineering, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Knoblock.jpg" width="500" /> |
 | 9:00 | 9:45 | **Invited Talk I: [Jeannette Wing](https://www.cs.columbia.edu/~wing/), Columbia University** <br> Professor of Computer Science, The Fu Foundation School of Engineering and Applied Science; Avanessians Director, Data Science Institute | <img src="images/Wing.jpg" width="500" /> |
 | 9:45 | 10:00 | **Break**  |  |
 | 10:00 | 11:00 | **Session I: Data Everywhere**  |  |
@@ -38,8 +39,8 @@ The sessions will run from 8:45am PST to 12:15 PST on May 3-5, 2021.  All times 
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
 | 8:45 | 9:00 | **Teaching II: Data Science and Artificial Intelligence**  |  |
-|  |  | [Craig Knoblock](https://usc-isi-i2.github.io/knoblock/) <br> Keston Executive Director, Information Sciences Institute, Viterbi School of Engineering; Vice Dean of Engineering, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Knoblock.jpg" width="500" /> |
 |  |  | [Cyrus Shahabi](https://infolab.usc.edu/Shahabi/) <br> Chair, Computer Science Department, Viterbi School of Engineering; Director, Integrated Media Systems Center, Viterbi School of Engineering; Director, Information Laboratory, Viterbi School of Engineering; Professor of Computer Science and Electrical Engineering, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Shahabi.jpg" width="500" /> |
+|  |  | [Emilio Ferrara](http://www.emilio.ferrara.name/), Associate Professor of Communication, Annenberg School of Communication; Associate Professor of Computer Science, Viterbi School of Engineering; Associate Director of Applied Data Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering  | <img src="images/Ferrara.jpg" width="500" /> |
 | 9:00 | 10:00 | **Session II: Modeling Behaviors** |  |
 |  |  | Session Chair: [Emilio Ferrara](http://www.emilio.ferrara.name/), Associate Professor of Communication, Annenberg School of Communication; Associate Professor of Computer Science, Viterbi School of Engineering; Associate Director of Applied Data Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering  |  |
 |  |  | *Morality Maps* <br> [Morteza Dehghani](http://morteza-dehghani.net) <br> Associate Professor of Psychology, Computer Science and Brain and Creativity Institute, Dornsife College of Letters, Arts and Sciences | <img src="images/Dehghani.jpg" width="500" /> |
