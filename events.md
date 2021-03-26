@@ -10,5 +10,5 @@ title: USC AI Futures Symposium on Artificial Intelligence and Data Science
 
 [Event website](https://www.isi.edu/events/ai_symposium_2021)
 
-<img src="images/Human-AI-Symposium-Flier.jpg" alt="AI-DS-Symposium-Flier" width="1000" />
+<img src="images/Human-AI-Symposium-Flier.jpg" alt="Human-AI-Symposium-Flier" width="1000" />
 
