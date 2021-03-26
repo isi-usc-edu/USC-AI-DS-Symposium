@@ -5,11 +5,8 @@ title: USC AI Futures Symposium on Artificial Intelligence and Data Science
 ---
 
 
-Note: links to Zoom sessions will be emailed privately after [registration](https://usc.zoom.us/webinar/register/WN_V-mMUlHGQMWnkecKyPUQWA).
+The sessions will run from 8:45am PST to 12:15 PST on May 3-5, 2021.  All times below are in PST (Los Angeles time).  Links to attend the sessions will be emailed privately after [registration](https://usc.zoom.us/webinar/register/WN_V-mMUlHGQMWnkecKyPUQWA).
 
-### All times are in PST (Los Angeles time)
-
-The sessions will run from 8:45am PST to 12:15 PST on May 3-5, 2021.
 
 ## Monday May 3, 2021
 
