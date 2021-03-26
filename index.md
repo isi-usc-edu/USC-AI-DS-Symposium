@@ -14,6 +14,8 @@ This event is part of the USC AI Futures Symposium Series. A prior event was hel
 
 ## Schedule
 
+The sessions will run from 8:45am PST to 12:15 PST on May 3-5, 2021.
+
 A preliminary agenda is available [here](https://isi-usc-edu.github.io/USC-AI-DS-Symposium/schedule).
 
 ## Attending
