@@ -13,6 +13,7 @@ The sessions will run from 8:45am PST to 12:15 PST on May 3-5, 2021.  All times 
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
 | 8:45 | 9:00 | **Welcome and Opening Remarks**  |  |
+|  |  | [Yannis Yortsos](https://viterbi.usc.edu/directory/faculty/Yortsos/Yannis) <br> Zohrab A. Kaprielian Dean’s Chair in Engineering and Chester Dolley Professor of Chemical and Petroleum Engineering | <img src="images/Yortsos.jpg" width="100" /> |
 |  |  | [Craig Knoblock](https://usc-isi-i2.github.io/knoblock/) <br> Keston Executive Director, Information Sciences Institute, Viterbi School of Engineering; Vice Dean of Engineering, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Knoblock.jpg" width="100" /> |
 | 9:00 | 9:45 | **Invited Talk I: [Jeannette Wing](https://www.cs.columbia.edu/~wing/), Columbia University** <br> Professor of Computer Science, The Fu Foundation School of Engineering and Applied Science; Avanessians Director, Data Science Institute | <img src="images/Wing.jpg" width="100" /> |
 | 9:45 | 10:00 | **Break**  |  |
@@ -79,3 +80,4 @@ The sessions will run from 8:45am PST to 12:15 PST on May 3-5, 2021.  All times 
 |  |  | [Peter Kuhn](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1057916) <br> Dean’s Professor of Biological Sciences, Dornsife College of Letters, Arts and Sciences; Professor of Medicine, Biomedical Engineering, Aerospace & Mechanical Engineering and Urology, Dornsife College of Letters, Arts and Sciences | <img src="images/Kuhn.jpg" width="100" /> |
 |  |  | [Daniella Meeker](https://keck.usc.edu/faculty-search/daniella-meeker/) <br> Director of Clinical Research Informatics, Keck School of Medicine; Assistant Professor of Preventive Medicine, Keck School of Medicine | <img src="images/Meeker.jpg" width="100" /> |
 | 12:00 | 12:15 | **Closing Remarks**  |  |
+|  |  | [Maja Matarić]() <br> USC Interim Vice President of Research; Chan Soon-Shiong Chair and Distinguished Professor of Computer Science, Neuroscience, and Pediatrics | <img src="images/Mataric.jpg" width="100" /> |
