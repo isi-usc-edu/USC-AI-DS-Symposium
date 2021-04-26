@@ -53,7 +53,7 @@ The sessions will run from 8:45am PDT to 12:15 PDT on May 3-5, 2021.  Links to a
 | 10:00 | 10:15 | **Break**  |  |
 | 10:15 | 11:00 | **Poster Session**  |  |
 | 11:00 | 11:15 | **Break**  |  |
-| 10:15 | 12:15 | **Session III: Language Diversity**  |  |
+| 11:15 | 12:15 | **Session III: Language Diversity**  |  |
 |  |  | Session Chair: [Elizabeth Boschee](https://www.isi.edu/about/bio/elizabeth_boschee/), Research Team Leader and Director of the Boston Office, Information Sciences Institute, Viterbi School of Engineering  | <img src="images/Boschee.jpg" width="500" /> |
 |  |  | *Translation for All* <br> [Jon May](https://www.isi.edu/~jonmay/) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering; Research Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/May.jpg" width="500" /> |
 |  |  | *Multimedia Extraction* <br> [Marjorie Freedman](https://www.isi.edu/people/mrf/about) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Freedman.jpg" width="500" /> |
