@@ -23,7 +23,7 @@ The sessions will run from 8:45am PDT to 12:15 PDT on May 3-5, 2021.  Links to a
 |  |  | *Text Analysis in Finance* <br> [Gerard Hoberg](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br> Professor of Finance, Marshall School of Business | <img src="images/Hoberg.jpg" width="500" /> |
 |  |  | *Image Analysis in Neuroscience* <br> [Paul Thompson](http://users.loni.usc.edu/~thompson/thompson.html) <br> Professor of Ophthalmology, Neurology, Psychiatry and the Behavioral Sciences, Radiology, Psychiatry, and Engineering, Keck School of Medicine <br> Associate Director, USC Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine | <img src="images/Thompson.jpg" width="500" /> |
 |  |  | *New Eyes on Our Cities* <br> [Seon Kim](https://sites.google.com/view/skim-home/home) <br> Research Scientist, Integrated Media Systems Center, Viterbi School of Engineering | <img src="images/Kim.jpg" width="500" /> |
-|  |  | *Spatial Data for Transportation* <br> [Yao-Yi Chiang](https://yaoyichi.github.io) <br> Associate Professor (Research), Spatial Sciences Institute, Dornsife College of Letters, Arts and Sciences | <img src="images/Chiang.jpg" width="500" /> |
+|  |  | *Spatially-Enabled Machine Learning* <br> [Yao-Yi Chiang](https://yaoyichi.github.io) <br> Associate Professor (Research), Spatial Sciences Institute, Dornsife College of Letters, Arts and Sciences | <img src="images/Chiang.jpg" width="500" /> |
 |  |  | *Discrimination in Ad Delivery* <br> [Aleksandra Korolova](https://www.korolova.com) <br> Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Korolova.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:00 | **Panel I: Sustainability**  |  |
