@@ -52,6 +52,7 @@ The sessions will run from 8:45am PDT to 12:15 PDT on May 3-5, 2021.  Links to a
 |  |  | *From Wearables to Behaviors* <br> [Shri Narayanan](https://viterbi.usc.edu/directory/faculty/Narayanan/Shrikanth) <br> Professor of Electrical and Computer Engineering and Computer Science, Viterbi School of Engineering; Professor of Linguistics, Psychology and Neuroscience, Dornsife College of Letters, Arts and Sciences; Professor of Pediatrics, Otolaryngology-Head and Neck Surgery, Keck School of Medicine; Research Director, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Narayanan.jpg" width="500" /> |
 | 10:00 | 10:15 | **Break**  |  |
 | 10:15 | 11:00 | **Poster Session**  |  |
+|  |  | Session Chair: [Goran Muric](https://gmuric.com/) <br> Computer Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/GoranMuric.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:15 | **Session III: Language Diversity**  |  |
 |  |  | Session Chair: [Elizabeth Boschee](https://www.isi.edu/about/bio/elizabeth_boschee/), Research Team Leader and Director of the Boston Office, Information Sciences Institute, Viterbi School of Engineering  | <img src="images/Boschee.jpg" width="500" /> |
