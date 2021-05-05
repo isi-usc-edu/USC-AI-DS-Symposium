@@ -52,7 +52,7 @@ The sessions will run from 8:45am PDT to 12:15 PDT on May 3-5, 2021.  Links to a
 |  |  | *From Wearables to Behaviors* <br> [Shri Narayanan](https://viterbi.usc.edu/directory/faculty/Narayanan/Shrikanth) <br> Professor of Electrical and Computer Engineering and Computer Science, Viterbi School of Engineering; Professor of Linguistics, Psychology and Neuroscience, Dornsife College of Letters, Arts and Sciences; Professor of Pediatrics, Otolaryngology-Head and Neck Surgery, Keck School of Medicine; Research Director, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Narayanan.jpg" width="500" /> |
 | 10:00 | 10:15 | **Break**  |  |
 | 10:15 | 11:00 | **Poster Session**  |  |
-|  |  | Session Chair: [Goran Muric](https://gmuric.com/) <br> Computer Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/GoranMuric.jpg" width="500" /> |
+|  |  | Session Chair: [Goran Muric](https://gmuric.com/) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/GoranMuric.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:15 | **Session III: Language Diversity**  |  |
 |  |  | Session Chair: [Elizabeth Boschee](https://www.isi.edu/about/bio/elizabeth_boschee/), Research Team Leader and Director of the Boston Office, Information Sciences Institute, Viterbi School of Engineering  | <img src="images/Boschee.jpg" width="500" /> |
@@ -77,7 +77,7 @@ The sessions will run from 8:45am PDT to 12:15 PDT on May 3-5, 2021.  Links to a
 | 10:15 | 11:00 | **Invited Talk II: [Regina Barzilay](https://www.regina.csail.mit.edu), MIT** <br> Professor of AI and Health, Electrical Engineering & Computer Science, MIT; Member, Computer Science and Artificial Intelligence Laboratory, MIT; AI Faculty Lead, Jameel Clinic, MIT Center for Machine Learning in Health | <img src="images/Barzilay.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:00 | **Panel II: Health**  |  |
-|  |  | Panel Chair: [Greg Ver Steeg](https://www.isi.edu/people/gregv/) <br> Research Associate Professor, Information Sciences Institute, Viterbi School of Engineering | <img src="images/VerSteeg.jpg" width="500" /> |
+|  |  | Panel Chair: [Greg Ver Steeg](https://www.isi.edu/people/gregv/) <br> Research Associate Professor of Computer Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering | <img src="images/VerSteeg.jpg" width="500" /> |
 |  |  | [Neda Jahanshad](https://keck.usc.edu/faculty-search/neda-jahanshad/) <br> Associate Professor of Neurology, Keck School of Medicine | <img src="images/Jahanshad.jpg" width="500" /> |
 |  |  | [Peter Kuhn](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1057916) <br> Dean’s Professor of Biological Sciences, Dornsife College of Letters, Arts and Sciences; Professor of Medicine, Biomedical Engineering, Aerospace & Mechanical Engineering and Urology, Dornsife College of Letters, Arts and Sciences | <img src="images/Kuhn.jpg" width="500" /> |
 |  |  | [Daniella Meeker](https://keck.usc.edu/faculty-search/daniella-meeker/) <br> Director of Clinical Research Informatics, Keck School of Medicine; Assistant Professor of Preventive Medicine, Keck School of Medicine | <img src="images/Meeker.jpg" width="500" /> |
