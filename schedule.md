@@ -4,9 +4,7 @@ title: USC AI Futures Symposium on Artificial Intelligence and Data Science
 ---
 ---
 
-**Recordings of the sessions are available <a href="https://www.youtube.com/playlist?list=PLknXvJJeEDaKQEcZmZkcR3j0hd8XJYsAe">here</a>.**
-
-The sessions run from 8:45am PDT to 12:15 PDT on May 3-5, 2021.  Links to attend the sessions will be emailed privately after [registration](https://usc.zoom.us/webinar/register/WN_V-mMUlHGQMWnkecKyPUQWA).
+**Recordings of the Day 1 sessions are available <a href="https://www.youtube.com/playlist?list=PLknXvJJeEDaKQEcZmZkcR3j0hd8XJYsAe">here</a>.**. Recordings for Day 2 and Day 3 will be available soon.
 
 **All times below are in PDT (Los Angeles time).**
 
@@ -14,13 +12,13 @@ The sessions run from 8:45am PDT to 12:15 PDT on May 3-5, 2021.  Links to attend
 
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
-| 8:45 | 9:00 | **Welcome and Opening Remarks**  | **Recording** <a href="https://youtu.be/xqJzft5UmWM"><img src="images/OpeningRemarks.jpg" width="500" /></a> |
+| 8:45 | 9:00 | **Welcome and Opening Remarks**  | **Video Recording** <a href="https://youtu.be/xqJzft5UmWM"><img src="images/OpeningRemarks.jpg" width="500" /></a> |
 |  |  | [Yannis Yortsos](https://viterbi.usc.edu/directory/faculty/Yortsos/Yannis) <br> Zohrab A. Kaprielian Dean’s Chair in Engineering and Chester Dolley Professor of Chemical and Petroleum Engineering | <img src="images/Yortsos.jpg" width="500" /> |
 |  |  | [Craig Knoblock](https://usc-isi-i2.github.io/knoblock/) <br> Keston Executive Director, Information Sciences Institute, Viterbi School of Engineering; Vice Dean of Engineering, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Knoblock.jpg" width="500" /> |
-| 9:00 | 9:45 | **Invited Talk I** | <img src="images/InvitedI.jpg" width="500" /> |
+| 9:00 | 9:45 | **Invited Talk I** | **Video Recording** <a href="https://youtu.be/E4BbbIchy7E"><img src="images/InvitedI.jpg" width="500" /></a> |
 |  |  | [Jeannette Wing](https://www.cs.columbia.edu/~wing/), Columbia University** <br> Professor of Computer Science, The Fu Foundation School of Engineering and Applied Science; Avanessians Director, Data Science Institute | <img src="images/Wing.jpg" width="500" /> |
 | 9:45 | 10:00 | **Break**  |  |
-| 10:00 | 11:00 | **Session I: Data Everywhere**  | <img src="images/SessionI.jpg" width="500" /> |
+| 10:00 | 11:00 | **Session I: Data Everywhere**  | **Video Recording** <a href="https://youtu.be/BYyRL-QJTNc"><img src="images/SessionI.jpg" width="500" /></a> |
 |  |  | Session Chair: [Wael AbdAlmageed](https://www.isi.edu/people/wamageed/) <br> Research Associate Professor in Electrical and Computer Engineering, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering  | <img src="images/AbdAlmageed.jpg" width="500" /> |
 |  |  | *Text Analysis in Finance* <br> [Gerard Hoberg](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br> Professor of Finance, Marshall School of Business | <img src="images/Hoberg.jpg" width="500" /> |
 |  |  | *Image Analysis in Neuroscience* <br> [Paul Thompson](http://users.loni.usc.edu/~thompson/thompson.html) <br> Professor of Ophthalmology, Neurology, Psychiatry and the Behavioral Sciences, Radiology, Psychiatry, and Engineering, Keck School of Medicine <br> Associate Director, USC Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine | <img src="images/Thompson.jpg" width="500" /> |
@@ -28,12 +26,12 @@ The sessions run from 8:45am PDT to 12:15 PDT on May 3-5, 2021.  Links to attend
 |  |  | *Spatially-Enabled Machine Learning* <br> [Yao-Yi Chiang](https://yaoyichi.github.io) <br> Associate Professor (Research), Spatial Sciences Institute, Dornsife College of Letters, Arts and Sciences | <img src="images/Chiang.jpg" width="500" /> |
 |  |  | *Discrimination in Ad Delivery* <br> [Aleksandra Korolova](https://www.korolova.com) <br> Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Korolova.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
-| 11:15 | 12:00 | **Panel I: Sustainability**  | <img src="images/PanelI.jpg" width="500" /> |
+| 11:15 | 12:00 | **Panel I: Sustainability**  | **Video Recording** <a href="https://youtu.be/-43R33zwfpI"><img src="images/PanelI.jpg" width="500" /></a> |
 |  |  | Panel Chair: [Chris Mattmann](http://irds.usc.edu/faculty/mattmann/) <br> Division Manager, Artificial Intelligence, Analytics and Innovation Development Organization, Information Technology and Solutions Directorate, NASA JPL; Director, Apache Software Foundation; Director, Information Retrieval & Data Science group, Viterbi School of Engineering; Adjunct Research Associate Professor of Computer Science, Viterbi School of Engineering  | <img src="images/Mattmann.jpg" width="500" /> |
 |  |  | [Deborah Khider](https://earth.usc.edu/~khider/) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Khider.jpg" width="500" /> |
 |  |  | [Mahta Moghaddam](https://viterbi.usc.edu/directory/faculty/Moghaddam/Mahta) <br> Ming Hsieh Chair, Electrical and Computer Engineering-Electrophysics, Viterbi School of Engineering; Distinguished Professor, Electrical and Computer Engineering, Viterbi School of Engineering | <img src="images/Moghaddam.jpg" width="500" /> |
 |  |  | [John Wilson](https://johnwilson.usc.edu) <br> Director, Spatial Sciences Institute, Dornsife College of Letters, Arts and Sciences; Director, Wilson Map Lab; Professor of Architecture, Civil and Environmental Engineering, Computer Science, Preventive Medicine, Sociology, and Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Wilson.jpg" width="500" /> |
-| 12:00 | 12:15 | **Teaching I: Interdisciplinary Data Science**  | <img src="images/TeachingI.jpg" width="500" /> |
+| 12:00 | 12:15 | **Teaching I: Interdisciplinary Data Science**  | **Video Recording** <a href="https://youtu.be/TH9iXX08wfo"><img src="images/TeachingI.jpg" width="500" /></a> |
 |  |  | [Gary Painter](https://priceschool.usc.edu/people/gary-dean-painter/)<br> Chair, Department of Public Policy, Sol Price School of Public Policy; Director, Sol Price Center for Social Innovation, Sol Price School of Public Policy; Director, Homelessness Policy Research Institute, Sol Price School of Public Policy; Professor, Sol Price School of Public Policy | <img src="images/Painter.jpg" width="500" /> |
 |  |  | [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute, Viterbi School of Engineering; Director, Data Science Programs, Computer Science Department, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Gil.jpg" width="500" /> |
 
