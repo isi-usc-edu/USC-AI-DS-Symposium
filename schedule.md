@@ -13,7 +13,7 @@ The sessions will run from 8:45am PDT to 12:15 PDT on May 3-5, 2021.  Links to a
 
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
-| 8:45 | 9:00 | **Welcome and Opening Remarks**  | <td bgcolor= "#ffe299"> <span style="color:red">Recording Available</span> <img src="images/OpeningRemarks.jpg" width="500" /> |
+| 8:45 | 9:00 | **Welcome and Opening Remarks**  | **Recording** <img src="images/OpeningRemarks.jpg" width="500" /> |
 |  |  | [Yannis Yortsos](https://viterbi.usc.edu/directory/faculty/Yortsos/Yannis) <br> Zohrab A. Kaprielian Dean’s Chair in Engineering and Chester Dolley Professor of Chemical and Petroleum Engineering | <img src="images/Yortsos.jpg" width="500" /> |
 |  |  | [Craig Knoblock](https://usc-isi-i2.github.io/knoblock/) <br> Keston Executive Director, Information Sciences Institute, Viterbi School of Engineering; Vice Dean of Engineering, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Knoblock.jpg" width="500" /> |
 | 9:00 | 9:45 | **Invited Talk I** | <img src="images/InvitedI.jpg" width="500" /> |
