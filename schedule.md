@@ -43,7 +43,7 @@ title: USC AI Futures Symposium on Artificial Intelligence and Data Science
 | 8:45 | 9:00 | **Teaching II: Data Science and Artificial Intelligence**  | **Video Recording** <a href="https://youtu.be/"><img src="images/TeachingII.jpg" width="500" /></a> |
 |  |  | [Cyrus Shahabi](https://infolab.usc.edu/Shahabi/) <br> Chair, Computer Science Department, Viterbi School of Engineering; Director, Integrated Media Systems Center, Viterbi School of Engineering; Director, Information Laboratory, Viterbi School of Engineering; Professor of Computer Science and Electrical Engineering, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Shahabi.jpg" width="500" /> |
 |  |  | [Emilio Ferrara](http://www.emilio.ferrara.name/), Associate Professor of Communication, Annenberg School of Communication; Associate Professor of Computer Science, Viterbi School of Engineering; Associate Director of Applied Data Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering  | <img src="images/Ferrara.jpg" width="500" /> |
-| 9:00 | 10:00 | **Session II: Modeling Behaviors** | <a href="https://youtu.be/"><img src="images/SessionII.jpg" width="500" /></a> |
+| 9:00 | 10:00 | **Session II: Modeling Behaviors** | **Video Recording** <a href="https://youtu.be/"><img src="images/SessionII.jpg" width="500" /></a> |
 |  |  | Session Chair: [Emilio Ferrara](http://www.emilio.ferrara.name/), Associate Professor of Communication, Annenberg School of Communication; Associate Professor of Computer Science, Viterbi School of Engineering; Associate Director of Applied Data Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering  | <img src="images/Ferrara.jpg" width="500" /> |
 |  |  | *Morality Maps* <br> [Morteza Dehghani](http://morteza-dehghani.net) <br> Associate Professor of Psychology, Computer Science and Brain and Creativity Institute, Dornsife College of Letters, Arts and Sciences | <img src="images/Dehghani.jpg" width="500" /> |
 |  |  | *Successful Teaming* <br> [Marlon Twyman](https://www.marlontwyman.com) <br> Assistant Professor of Communication, Annenberg School for Communication and Journalism | <img src="images/Twyman.jpg" width="500" /> |
@@ -54,7 +54,7 @@ title: USC AI Futures Symposium on Artificial Intelligence and Data Science
 | 10:15 | 11:00 | **Poster Session**  |  |
 |  |  | Session Chair: [Goran Muric](https://gmuric.com/) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/GoranMuric.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
-| 11:15 | 12:15 | **Session III: Language Diversity**  | <a href="https://youtu.be/"><img src="images/SessionIII.jpg" width="500" /></a> |
+| 11:15 | 12:15 | **Session III: Language Diversity**  | **Video Recording** <a href="https://youtu.be/"><img src="images/SessionIII.jpg" width="500" /></a> |
 |  |  | Session Chair: [Elizabeth Boschee](https://www.isi.edu/about/bio/elizabeth_boschee/), Research Team Leader and Director of the Boston Office, Information Sciences Institute, Viterbi School of Engineering  | <img src="images/Boschee.jpg" width="500" /> |
 |  |  | *Translation for All* <br> [Jon May](https://www.isi.edu/~jonmay/) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering; Research Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/May.jpg" width="500" /> |
 |  |  | *Multimedia Extraction* <br> [Marjorie Freedman](https://www.isi.edu/people/mrf/about) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Freedman.jpg" width="500" /> |
@@ -66,7 +66,7 @@ title: USC AI Futures Symposium on Artificial Intelligence and Data Science
 
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
-| 9:00 | 10:00 | **Session IV: Making Decisions**  | <a href="https://youtu.be/"><img src="images/SessionIV.jpg" width="500" /></a> |
+| 9:00 | 10:00 | **Session IV: Making Decisions**  | **Video Recording** <a href="https://youtu.be/"><img src="images/SessionIV.jpg" width="500" /></a> |
 |  |  | Session Chair: [Jose Luis Ambite](https://www.isi.edu/~ambite/), Research Associate Professor of Computer Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering  | <img src="images/Ambite.jpg" width="500" /> |
 |  |  | *Learning to Decide* <br> [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra) <br> Associate Professor of Computer Science, Viterbi School of Engineering; Co-Director, Center for AI in Society, Viterbi School of Engineering and Dworak-Peck School of Social Work | <img src="images/Dilkina.jpg" width="500" /> |
 |  |  | *Constrained Optimization* <br> [Satish Thittamaranahalli](http://www.tkskwork.org) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering; Research Assistant Professor of Computer Science, Industrial and Systems Engineering, and Physics and Astronomy, Viterbi School of Engineering | <img src="images/Thittamaranahalli.jpg" width="500" /> |
@@ -74,13 +74,13 @@ title: USC AI Futures Symposium on Artificial Intelligence and Data Science
 |  |  | *Optimizing Logistics* <br> [Sven Koenig](http://idm-lab.org) <br> Professor of Computer Science, Viterbi School of Engineering | <img src="images/Koenig.jpg" width="500" /> |
 |  |  | *Fair Influencers* <br> [Phebe Vayanos](https://sites.google.com/usc.edu/phebevayanos/) <br> Assistant Professor of Industrial and Systems Engineering and Computer Science, Viterbi School of Engineering; Associate Director, Center for Artificial Intelligence in Society, Viterbi School of Engineering | <img src="images/Vayanos.jpg" width="500" /> |
 | 10:00 | 10:15 | **Break**  |  |
-| 10:15 | 11:00 | **Invited Talk II** | <a href="https://youtu.be/"><img src="images/SessionII.jpg" width="500" /></a> |
+| 10:15 | 11:00 | **Invited Talk II** | **Video Recording** <a href="https://youtu.be/"><img src="images/SessionII.jpg" width="500" /></a> |
 | | | [Regina Barzilay](https://www.regina.csail.mit.edu), MIT <br> Professor of AI and Health, Electrical Engineering & Computer Science, MIT; Member, Computer Science and Artificial Intelligence Laboratory, MIT; AI Faculty Lead, Jameel Clinic, MIT Center for Machine Learning in Health | <img src="images/Barzilay.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
-| 11:15 | 12:00 | **Panel II: Health**  | <a href="https://youtu.be/"><img src="images/PanelII.jpg" width="500" /></a> |
+| 11:15 | 12:00 | **Panel II: Health**  | **Video Recording** <a href="https://youtu.be/"><img src="images/PanelII.jpg" width="500" /></a> |
 |  |  | Panel Chair: [Greg Ver Steeg](https://www.isi.edu/people/gregv/) <br> Research Associate Professor of Computer Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering | <img src="images/VerSteeg.jpg" width="500" /> |
 |  |  | [Neda Jahanshad](https://keck.usc.edu/faculty-search/neda-jahanshad/) <br> Associate Professor of Neurology, Keck School of Medicine | <img src="images/Jahanshad.jpg" width="500" /> |
 |  |  | [Peter Kuhn](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1057916) <br> Dean’s Professor of Biological Sciences, Dornsife College of Letters, Arts and Sciences; Professor of Medicine, Biomedical Engineering, Aerospace & Mechanical Engineering and Urology, Dornsife College of Letters, Arts and Sciences | <img src="images/Kuhn.jpg" width="500" /> |
 |  |  | [Daniella Meeker](https://keck.usc.edu/faculty-search/daniella-meeker/) <br> Director of Clinical Research Informatics, Keck School of Medicine; Assistant Professor of Preventive Medicine, Keck School of Medicine | <img src="images/Meeker.jpg" width="500" /> |
-| 12:00 | 12:15 | **Closing Remarks**  | <a href="https://youtu.be/"><img src="images/Closing.jpg" width="500" /></a> |
+| 12:00 | 12:15 | **Closing Remarks**  | **Video Recording** <a href="https://youtu.be/"><img src="images/Closing.jpg" width="500" /></a> |
 |  |  | [Maja Matarić]() <br> USC Interim Vice President of Research; Chan Soon-Shiong Chair and Distinguished Professor of Computer Science, Neuroscience, and Pediatrics | <img src="images/Mataric.jpg" width="500" /> |
