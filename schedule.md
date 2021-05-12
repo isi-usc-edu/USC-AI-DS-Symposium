@@ -4,7 +4,7 @@ title: USC AI Futures Symposium on Artificial Intelligence and Data Science
 ---
 ---
 
-**Video recordings of the Day 1 sessions are available <a href="https://www.youtube.com/playlist?list=PLknXvJJeEDaKQEcZmZkcR3j0hd8XJYsAe">here</a>.** Recordings for Day 2 and Day 3 will be available soon.
+**Video recordings of all the sessions are available <a href="https://www.youtube.com/playlist?list=PLknXvJJeEDaKQEcZmZkcR3j0hd8XJYsAe">here</a>.
 
 **All times below are in PDT (Los Angeles time).**
 
